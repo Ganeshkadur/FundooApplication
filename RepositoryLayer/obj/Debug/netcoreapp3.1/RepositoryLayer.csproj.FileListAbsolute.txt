@@ -1,0 +1,16 @@
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

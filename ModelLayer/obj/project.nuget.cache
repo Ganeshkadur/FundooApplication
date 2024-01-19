@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcWjVmrccXDOT6o2oa/ydnLGa6QfCnd3HmCKz85Ets3CV/y8wLSbXK+LrB9Gnyxm+v8e9kF8e9W5JY2b0S8LzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ganesh\\source\\repos\\FandooNotesApp\\ModelLayer\\ModelLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ganesh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

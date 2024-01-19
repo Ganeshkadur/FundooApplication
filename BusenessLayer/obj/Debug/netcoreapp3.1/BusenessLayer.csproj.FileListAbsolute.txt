@@ -1,0 +1,15 @@
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\BusenessLayer.deps.json
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\BusenessLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\BusenessLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.csproj.AssemblyReference.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.AssemblyInfoInputs.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.AssemblyInfo.cs
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.csproj.CopyComplete
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\obj\Debug\netcoreapp3.1\BusenessLayer.pdb
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Ganesh\source\repos\FandooNotesApp\BusenessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
